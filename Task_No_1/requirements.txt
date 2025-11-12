@@ -1,0 +1,27 @@
+# For the Streamlit web interface
+
+streamlit
+
+# For loading environment variables from the .env file
+
+python-dotenv
+
+# --- LangChain Core & Components ---
+
+langchain-core       # For core components (prompts, runnables, parsers)
+langchain-community  # For Chroma wrapper and PyMuPDFLoader
+langchain-text-splitters # For RecursiveCharacterTextSplitter
+
+# --- LLM and Embedding Models ---
+
+langchain-google-genai # For the Gemini (ChatGoogleGenerativeAI) model
+google-generativeai    # Backend dependency for the Google GenAI library
+langchain-huggingface  # For the HuggingFace embedding model wrapper
+sentence-transformers  # Backend for HuggingFaceEmbeddings (all-MiniLM-L6-v2)
+
+# --- Vector Store ---
+chromadb             # The vector database backend
+
+# --- Document Loaders ---
+
+pymupdf              # For loading and parsing PDF files (PyMuPDFLoader)
