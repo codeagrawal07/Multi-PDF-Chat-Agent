@@ -142,3 +142,4 @@ Streamlit will open in your browser (usually [http://localhost:8501](http://loca
 
 **Abhishek Agrawal**
 GitHub: [codeagrawal07](https://github.com/codeagrawal07)
+Linkedin Profile:[Click](https://www.linkedin.com/in/abhishek07122002/)
